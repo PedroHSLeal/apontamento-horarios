@@ -15,6 +15,9 @@ Por enquanto ainda é um projeto bem simples, somente para fins de uso próprio
 7. Seja feliz :)
 
 ## To-do's
+
 [] corrigir o processo de build, tornando o mais simples possivel
+
 [] adicionar nos apontamentos um campo de horario final
+
 [] (apenas para devs) ter um middleware para funcionar junto com o git
